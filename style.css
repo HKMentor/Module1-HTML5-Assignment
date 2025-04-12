@@ -20,6 +20,7 @@
     z-index: 1000;
     width: 100%;
     flex-wrap: wrap; /* wrap for small screens */
+
   }
   
   .logo {
@@ -73,6 +74,7 @@
     text-align: center;
     width: 100%;
     max-width: 600px;
+    margin-top: 30px;
   }
   
   h1 {
