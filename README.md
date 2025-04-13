@@ -1,5 +1,10 @@
 # Module1 - HTML5 Assignments
 
+https://youtu.be/joiaAc6Em6A?si=kDFpdwfurYMFkc42
+
+netlify url 
+https://hk-html-projects.netlify.app/#contact
+
 Welcome to the **HTML5 Assignments** repository for Module 1 of the Modern Web App Development course. This collection includes assignments that focus on learning the fundamentals of **HTML5**, its features, and applying them in different real-world tasks.
 
 ## Table of Contents
@@ -77,6 +82,5 @@ You can connect with me through the following platforms:
 
 Feel free to reach out — let's connect and grow together in the tech journey!
 
----
 
 Hooria_Codehub © Copy Right
